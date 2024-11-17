@@ -12,9 +12,9 @@
         </groups>
 
         <classes>
-            <class name="Practice.Grouping.LoginTest"/>
-            <class name="Practice.Grouping.SignUpTest"/>
-            <class name="Practice.Grouping.ProductTest"/>
+            <class name="testng.grouping.LoginTest"/>
+            <class name="testng.grouping.SignUpTest"/>
+            <class name="testng.grouping.ProductTest"/>
 
         </classes>
     </test>
